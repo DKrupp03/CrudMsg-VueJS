@@ -1,0 +1,10 @@
+VueJS
+
+- Vindo do Angular e React
+- Baseado em várias tecnologias
+- 2 way data bind - Model e View enterligados -> o que é alterado num, altera no outro também
+- Virtual DOM
+- Possibilidade de trabalhar com JSX
+- Single-File-component (tudo dentro do arquivo, pois tudo é component em VueJS) -> Não é obrigatório, claro
+- Padrão MVVM - Model-View-ViewModel
+- possui opção Vue CLI - não recomendado à iniciantes ou projetos pequenos
